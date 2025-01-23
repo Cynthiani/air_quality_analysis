@@ -78,6 +78,9 @@ Layers: LSTM
 
  
 Fig 14. Designed architecture of our model (designed with Microsoft Visio)
+![Designed architecture of the LSTM model](images/lstm_model_architecture.png)
+
+
 
 
 
